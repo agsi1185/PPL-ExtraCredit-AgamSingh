@@ -3,11 +3,19 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# Introduction to React.js and Functional Programming Concepts
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+This project is a tutorial on React.js, a powerful JavaScript library for building dynamic and efficient user interfaces. Created by Facebook, React enables developers to create applications made up of small, reusable components, making it easier to build and maintain large projects.
+
+In this tutorial, we cover the following:
+
+What React.js is and its core principles.
+Key concepts like components, Virtual DOM, and declarative programming.
+How React relates to functional programming concepts, such as functions as values, higher-order functions, and immutability.
+A hands-on demonstration of a Counter App to showcase state management using React hooks (useState) and event handling.
+
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
