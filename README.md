@@ -20,7 +20,7 @@ A hands-on demonstration of a Counter App to showcase state management using Rea
 
 Repository Organization
 The project folder is structured as follows:
-
+```
 PPL-ExtraCredit-AgamSingh/
 │-- mini-project-react/       # Project repository
 │   ├── src/                  # React source code
@@ -34,7 +34,7 @@ PPL-ExtraCredit-AgamSingh/
 │   └── package.json          # Dependencies
 │-- README.md                 # Main repo documentation
 │-- instructions.md           # Submission instructions
-
+```
 ## Building and Testing Instructions
 
 1. Prerequisites
