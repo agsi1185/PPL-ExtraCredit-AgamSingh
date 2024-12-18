@@ -65,5 +65,5 @@ TODO: Update the following links and remove this line.
 
 - YouTube: https://youtu.be/TODO.
 - Script: [Script.pdf](ScriptReactPPL.pdf).
-- Recording: [recording.mp4](recording.mp4).
+- Recording: File too large to upload, go to youtube link for the video.
 - Slides (if you use them in your recording): [slides.pdf](ReactFrameworkPPLPresentation.pdf) [Google Slides](https://docs.google.com/presentation/d/1Lbtc1pB8phr1q4jjMhJVPPBCtsl5mzA-bD9pfFdY7as/edit?usp=sharing)
