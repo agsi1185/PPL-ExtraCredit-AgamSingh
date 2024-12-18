@@ -45,7 +45,7 @@ Run the following commands in your terminal:
 
 git clone (This repo)
 
-cd mini-project-react
+cd counter-app
 
 3. Install Dependencies
 Install the required libraries using npm:
