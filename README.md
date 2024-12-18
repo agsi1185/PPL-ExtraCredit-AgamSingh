@@ -22,7 +22,7 @@ Repository Organization
 The project folder is structured as follows:
 ```
 PPL-ExtraCredit-AgamSingh/
-│-- mini-project-react/       # Project repository
+│-- counter-app/       # Project repository
 │   ├── src/                  # React source code
 │   │   ├── App.js            # Counter component
 │   │   └── index.js          # Entry point for React
@@ -43,7 +43,8 @@ Node.js and npm installed on your machine.
 2. Clone the Repository
 Run the following commands in your terminal:
 
-git clone <repository-url>
+git clone (This repo)
+
 cd mini-project-react
 
 3. Install Dependencies
@@ -60,9 +61,7 @@ Open your browser and go to http://localhost:3000 to view the Counter App.
 
 ## Presentation
 
-TODO: Update the following links and remove this line.
-
-- YouTube: https://youtu.be/TODO.
+- YouTube: [Youtube Link](https://youtu.be/Bc5Y31MxIhs?si=Yg3xKc9xNv5TsOxb)
 - Script: [Script.pdf](ScriptReactPPL.pdf).
-- Recording: [recording.mp4](recording.mp4).
+- Recording: File too large to upload, go to youtube link for the video.
 - Slides (if you use them in your recording): [slides.pdf](ReactFrameworkPPLPresentation.pdf) [Google Slides](https://docs.google.com/presentation/d/1Lbtc1pB8phr1q4jjMhJVPPBCtsl5mzA-bD9pfFdY7as/edit?usp=sharing)
