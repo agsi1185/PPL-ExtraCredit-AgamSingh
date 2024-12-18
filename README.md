@@ -18,11 +18,45 @@ A hands-on demonstration of a Counter App to showcase state management using Rea
 
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+Repository Organization
+The project folder is structured as follows:
+
+PPL-ExtraCredit-AgamSingh/
+│-- mini-project-react/       # Project repository
+│   ├── src/                  # React source code
+│   │   ├── App.js            # Counter component
+│   │   └── index.js          # Entry point for React
+│   ├── public/               # Public assets
+│   ├── script.md             # Video script
+│   ├── slides.pdf            # Presentation slides
+│   ├── recording.mp4         # Video recording
+│   ├── README.md             # Project documentation
+│   └── package.json          # Dependencies
+│-- README.md                 # Main repo documentation
+│-- instructions.md           # Submission instructions
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+1. Prerequisites
+Node.js and npm installed on your machine.
+
+2. Clone the Repository
+Run the following commands in your terminal:
+
+git clone <repository-url>
+cd mini-project-react
+
+3. Install Dependencies
+Install the required libraries using npm:
+
+npm install
+
+4. Run the App
+Start the React development server:
+
+npm start
+
+Open your browser and go to http://localhost:3000 to view the Counter App.
 
 ## Presentation
 
