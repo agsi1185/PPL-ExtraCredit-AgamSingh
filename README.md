@@ -65,4 +65,4 @@ TODO: Update the following links and remove this line.
 - YouTube: https://youtu.be/TODO.
 - Script: [Script.pdf](ScriptReactPPL.pdf).
 - Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) https://docs.google.com/presentation/d/1Lbtc1pB8phr1q4jjMhJVPPBCtsl5mzA-bD9pfFdY7as/edit?usp=sharing
+- Slides (if you use them in your recording): [slides.pdf](React Framework PPL Presentation.pdf) https://docs.google.com/presentation/d/1Lbtc1pB8phr1q4jjMhJVPPBCtsl5mzA-bD9pfFdY7as/edit?usp=sharing
