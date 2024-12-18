@@ -61,9 +61,7 @@ Open your browser and go to http://localhost:3000 to view the Counter App.
 
 ## Presentation
 
-TODO: Update the following links and remove this line.
-
-- YouTube: https://youtu.be/TODO.
+- YouTube: [Youtube Link](https://youtu.be/Bc5Y31MxIhs?si=Yg3xKc9xNv5TsOxb)
 - Script: [Script.pdf](ScriptReactPPL.pdf).
 - Recording: File too large to upload, go to youtube link for the video.
 - Slides (if you use them in your recording): [slides.pdf](ReactFrameworkPPLPresentation.pdf) [Google Slides](https://docs.google.com/presentation/d/1Lbtc1pB8phr1q4jjMhJVPPBCtsl5mzA-bD9pfFdY7as/edit?usp=sharing)
