@@ -22,7 +22,7 @@ Repository Organization
 The project folder is structured as follows:
 ```
 PPL-ExtraCredit-AgamSingh/
-│-- mini-project-react/       # Project repository
+│-- counter-app/       # Project repository
 │   ├── src/                  # React source code
 │   │   ├── App.js            # Counter component
 │   │   └── index.js          # Entry point for React
@@ -43,7 +43,8 @@ Node.js and npm installed on your machine.
 2. Clone the Repository
 Run the following commands in your terminal:
 
-git clone <repository-url>
+git clone (This repo)
+
 cd mini-project-react
 
 3. Install Dependencies
